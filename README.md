@@ -3,4 +3,4 @@ JuliaでYahooニュース＿ページをたどって、本文記事をスクレ�
 
 参照
 　次の記事のJuliaのコードをipynbにしたものです。  
-　　[JuliaでYahooニュースをスクレイピング（julialang.jp）](https://julialang.jp/?p=474)
+　　[JuliaでYahoo!ニュースをスクレイピング（julialang.jp）](https://julialang.jp/?p=474)
