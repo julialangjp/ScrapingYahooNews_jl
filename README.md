@@ -1,0 +1,2 @@
+# ScrapingYahooNews_jl
+JuliaでYahooニュースをスクレイピング
